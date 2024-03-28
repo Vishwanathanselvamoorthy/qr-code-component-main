@@ -9,11 +9,11 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  padding: 40px;
+  /* padding: -10px; */
   background-color: hsl(212, 45%, 89%);
 }
 .qr-code-card {
-  width: 400px;
+  width: 300px;
   padding: 25px;
   border-radius: 20px;
   background-color: white;
