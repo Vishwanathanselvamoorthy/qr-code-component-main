@@ -1,7 +1,7 @@
 # QR CODE COMPONENT 
 
 ## Project Description:
-🚀 The Frontend Mentor Project Showcase aims to exhibit various frontend projects completed through the Frontend Mentor platform. This repository serves as a comprehensive overview of the skills and capabilities developed by engaging in practical coding challenges.
+🔍 The QR Code Component project aims to provide a user-friendly solution for generating and integrating QR codes into various applications. Whether it's for linking digital content or facilitating seamless transactions, this component streamlines the process with its intuitive interface and efficient QR code generation.
 
 ## Features:
 - **Project Display:** Display completed projects with detailed descriptions.
